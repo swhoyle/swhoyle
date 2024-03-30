@@ -1,4 +1,4 @@
-Data Scientist 🪐
+I click buttons and play with data and stuff 💻
 
 <!---
 spencer-hoyle/spencer-hoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
