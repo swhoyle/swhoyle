@@ -1,4 +1,4 @@
-data stuff 💻
+I do stuff with data 💻
 
 <!---
 spencer-hoyle/spencer-hoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
