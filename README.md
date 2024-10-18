@@ -1,4 +1,4 @@
-I click buttons on computers 💻
+data stuff 💻
 
 <!---
 spencer-hoyle/spencer-hoyle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
